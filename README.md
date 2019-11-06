@@ -11,7 +11,7 @@
 	
 	<title>HOME</title>
 	
-		<link rel="canonical" href="http://khardproject.uflorist.pro">
+		<link rel="canonical" href="http://khardproject.tk">
 	
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -25,9 +25,9 @@
 		<meta name="twitter:card" content="summary" />
 		<meta property="og:type" content="website" />
 		<meta property="og:description" content="" />
-		<meta property="og:url" content="http://khardproject.uflorist.pro" />
+		<meta property="og:url" content="http://khardproject.tk" />
 	
-	<link rel="shortcut icon" href="/favicon.ico?v=3599538296078568" type="image/x-icon">
+	<link rel="shortcut icon" href="/favicon.io?v=3599538296078568" type="image/x-icon">
 	<script>
 	window.developmentMode = false;
 	
@@ -252,9 +252,7 @@
 		
 		
 		<div class="ul-goods-view-title" data-field-name="title">
-			<div class="js-goods-contenteditable h4"  >Растения для дома и&nbsp;офиса</div>
-		</div>
-		
+			<div class="js-goods-contenteditable h4"</div>		</div>	
 		
 		<div class="ul-goods-view-details">
 			
@@ -1044,10 +1042,7 @@
 
 	<div class="ul-project-copyright ul-project-copyright-dark">
 	
-		 <a href="https://ukit.com/ru?utm_source=ukit_new_copyright" target="_blank" rel="nofollow"></a>
-	
-</div>
-	
+		 
 	
 	
 	
@@ -1062,7 +1057,7 @@
 	
 	<script src="/js/lib/requirejs.min.js?v=2019_11_06T14_28_20_03_00_ad42e09edb1de4bb856d3c19f490f557a053419d"></script>
 	
-	<script>window.cache = {"site":"khardproject","siteUrl":"khardproject","isMainLanding":null,"isULanding":false,"page":"index","isPublished":false,"template":"cl_flowershop","isExistCustomHtml":false,"isScaling":true,"scaleImages":{"images":"all","minDate":"2017-11-07T14:30:00.000Z","templates":null,"webp":1,"defaultQuality":85,"overrideQuality":null,"splitBy":"page","quality":85},"homeClusterDomain":"ukit.com","isRemove":{"header":false,"footer":false},"_hiddenWidgets":{"ul-id-social-socialIcon":false,"ul-id-contacts-address":true,"ul-id-icon-logoIcon":false,"ul-id-mainmenu-main":false,"ul-id-header-siteName":false},"publishedForm":{"maxFileSize":5,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"feedback":{"maxFileSize":24,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"shop":{},"orderForms":[],"backgroundParams":{"ul-id-0-1":{"desktop":{"bgtype":"color","theme":"g-theme-block-0"},"tablet":{"bgtype":"color","theme":"g-theme-block-0"},"phone":{"bgtype":"color","theme":"g-theme-block-0"}},"ul-id-0-5":{"desktop":{"bgtype":"color","theme":"g-theme-block-0"},"tablet":{"bgtype":"color","theme":"g-theme-block-0"},"phone":{"bgtype":"color","theme":"g-theme-block-0"}},"ul-id-0-31":{"desktop":{"bgtype":"color","theme":"g-theme-block-2"},"tablet":{"bgtype":"color","theme":"g-theme-block-2"},"phone":{"bgtype":"color","theme":"g-theme-block-2"}},"ul-id-0-47":{"desktop":{"bgtype":"color","theme":"g-theme-block-3"},"tablet":{"bgtype":"color","theme":"g-theme-block-3"},"phone":{"bgtype":"color","theme":"g-theme-block-3"}},"ul-id-0-58":{"desktop":{"bgtype":"color","theme":"g-theme-block-2"},"tablet":{"bgtype":"color","theme":"g-theme-block-2"},"phone":{"bgtype":"color","theme":"g-theme-block-2"}},"ul-id-0-76":{"desktop":{"bgtype":"color","theme":"g-theme-block-1"},"tablet":{"bgtype":"color","theme":"g-theme-block-1"},"phone":{"bgtype":"color","theme":"g-theme-block-1"}},"ul-id-0-105":{"desktop":{"bgtype":"color","theme":"g-theme-block-3"},"tablet":{"bgtype":"color","theme":"g-theme-block-3"},"phone":{"bgtype":"color","theme":"g-theme-block-3"}},"ul-id-0-122":{"desktop":{"bgtype":"color","theme":"g-theme-block-1"},"tablet":{"bgtype":"color","theme":"g-theme-block-1"},"phone":{"bgtype":"color","theme":"g-theme-block-1"}},"ul-id-0-136":{"desktop":{"bgtype":"color","theme":"g-theme-block-2"},"tablet":{"bgtype":"color","theme":"g-theme-block-2"},"phone":{"bgtype":"color","theme":"g-theme-block-2"}},"ul-id-0-170":{"desktop":{"bgtype":"color","theme":"g-theme-block-0"},"tablet":{"bgtype":"color","theme":"g-theme-block-0"},"phone":{"bgtype":"color","theme":"g-theme-block-0"}},"ul-id-0-174":{"desktop":{"bgtype":"color","theme":"g-theme-block-4"},"tablet":{"bgtype":"color","theme":"g-theme-block-4"},"phone":{"bgtype":"color","theme":"g-theme-block-4"}}},"googleMapsApiKey":"","yandexMapsApiKey":"","yandexMapsApiKeyEnabled":false,"isScreenshotMode":false,"googleEmbedMapsApiKey":"AIzaSyDSOw3TYN-VvZPNAHs4ItKzdr62LqXuJuM","lazyLoad":{"enabled":true,"range":1},"isDynamicRequireConfEnabled":true,"imagezoom":{"i18n":{"all.of":"из"}}}</script>
+	<script>window.cache = {"site":"khardproject","siteUrl":"khardproject","isMainLanding":null,"isULanding":false,"page":"index","isPublished":false,"template":"cl_flowershop","isExistCustomHtml":false,"isScaling":true,"scaleImages":{"images":"all","minDate":"2017-11-07T14:30:00.000Z","templates":null,"webp":1,"defaultQuality":85,"overrideQuality":null,"splitBy":"page","quality":85},"homeClusterDomain":khardproject.com","isRemove":{"header":false,"footer":false},"_hiddenWidgets":{"ul-id-social-socialIcon":false,"ul-id-contacts-address":true,"ul-id-icon-logoIcon":false,"ul-id-mainmenu-main":false,"ul-id-header-siteName":false},"publishedForm":{"maxFileSize":5,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"feedback":{"maxFileSize":24,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"shop":{},"orderForms":[],"backgroundParams":{"ul-id-0-1":{"desktop":{"bgtype":"color","theme":"g-theme-block-0"},"tablet":{"bgtype":"color","theme":"g-theme-block-0"},"phone":{"bgtype":"color","theme":"g-theme-block-0"}},"ul-id-0-5":{"desktop":{"bgtype":"color","theme":"g-theme-block-0"},"tablet":{"bgtype":"color","theme":"g-theme-block-0"},"phone":{"bgtype":"color","theme":"g-theme-block-0"}},"ul-id-0-31":{"desktop":{"bgtype":"color","theme":"g-theme-block-2"},"tablet":{"bgtype":"color","theme":"g-theme-block-2"},"phone":{"bgtype":"color","theme":"g-theme-block-2"}},"ul-id-0-47":{"desktop":{"bgtype":"color","theme":"g-theme-block-3"},"tablet":{"bgtype":"color","theme":"g-theme-block-3"},"phone":{"bgtype":"color","theme":"g-theme-block-3"}},"ul-id-0-58":{"desktop":{"bgtype":"color","theme":"g-theme-block-2"},"tablet":{"bgtype":"color","theme":"g-theme-block-2"},"phone":{"bgtype":"color","theme":"g-theme-block-2"}},"ul-id-0-76":{"desktop":{"bgtype":"color","theme":"g-theme-block-1"},"tablet":{"bgtype":"color","theme":"g-theme-block-1"},"phone":{"bgtype":"color","theme":"g-theme-block-1"}},"ul-id-0-105":{"desktop":{"bgtype":"color","theme":"g-theme-block-3"},"tablet":{"bgtype":"color","theme":"g-theme-block-3"},"phone":{"bgtype":"color","theme":"g-theme-block-3"}},"ul-id-0-122":{"desktop":{"bgtype":"color","theme":"g-theme-block-1"},"tablet":{"bgtype":"color","theme":"g-theme-block-1"},"phone":{"bgtype":"color","theme":"g-theme-block-1"}},"ul-id-0-136":{"desktop":{"bgtype":"color","theme":"g-theme-block-2"},"tablet":{"bgtype":"color","theme":"g-theme-block-2"},"phone":{"bgtype":"color","theme":"g-theme-block-2"}},"ul-id-0-170":{"desktop":{"bgtype":"color","theme":"g-theme-block-0"},"tablet":{"bgtype":"color","theme":"g-theme-block-0"},"phone":{"bgtype":"color","theme":"g-theme-block-0"}},"ul-id-0-174":{"desktop":{"bgtype":"color","theme":"g-theme-block-4"},"tablet":{"bgtype":"color","theme":"g-theme-block-4"},"phone":{"bgtype":"color","theme":"g-theme-block-4"}}},"googleMapsApiKey":"","yandexMapsApiKey":"","yandexMapsApiKeyEnabled":false,"isScreenshotMode":false,"googleEmbedMapsApiKey":"AIzaSyDSOw3TYN-VvZPNAHs4ItKzdr62LqXuJuM","lazyLoad":{"enabled":true,"range":1},"isDynamicRequireConfEnabled":true,"imagezoom":{"i18n":{"all.of":"из"}}}</script>
 	
 	
 	<script>
